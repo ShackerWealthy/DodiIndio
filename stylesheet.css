@@ -1,0 +1,28 @@
+.root {
+    -fx-background-color: #383838;
+}
+
+.textfield {
+    -fx-background-radius: 30;
+    -fx-font: 15 arial;
+}
+
+.button {
+    -fx-background-radius: 15;
+    -fx-border-radius: 20;
+    -fx-border-color: #000000;
+    -fx-border-width: 2;
+    -fx-background-color: #00ff00;
+    -fx-font: 15 arial;
+    -fx-background-border: 20;
+}
+
+.button-blue {
+    -fx-background-radius: 15;
+    -fx-border-radius: 20;
+    -fx-border-color: #000000;
+    -fx-border-width: 2;
+    -fx-background-color: #0000ff;
+    -fx-font: 15 arial;
+    -fx-background-border: 20;
+}
