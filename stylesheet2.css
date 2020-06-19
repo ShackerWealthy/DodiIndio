@@ -1,0 +1,12 @@
+.label {
+    -fx-font: 15 arial;
+}
+
+.button {
+    -fx-font: 13 arial;
+    -fx-pref-height: 30;
+}
+
+.label-2 {
+    -fx-font: 20 arial;
+}
